@@ -44,7 +44,7 @@ func main() {
 		}
 
 		if strings.ToUpper(strings.TrimSpace(shouldConvertAgain)) != "Y" {
-			fmt.Println("Good bye!")
+			fmt.Println("Goodbye!")
 			break
 		}
 	}
